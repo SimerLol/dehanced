@@ -16,10 +16,10 @@ There is a single `index.js` file of which on the top has user configuration set
 >> The Stylenumber is an int ranging from `1-18` <br>
 >> The Strength determines how much impact the input image has on the output; `LOW` `MEDIUM` `HIGH` <br>
 
->> This is an example of a CSV file: 
+>> ### This is an example of a CSV file: 
 >>>  `Apple, 12, Medium` <br> `Banana, 8, HIGH` <br> `WOOOOOOO, 2, LOW ` <br>
 
->> This is an example of the Array:
+>> ### This is an example of the Array:
 >>> `entries["Apple,12,Medium", "Banana,8, HIGH", "WOOOOOOO,2, LOW]` <br>
 >>> 
 ---
