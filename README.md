@@ -12,9 +12,9 @@ There is a single `index.js` file of which on the top has user configuration set
 - Usage of a `CSV` file or `Array`?
 
 > Regardless of which bulk generation data input you pick, whether CSV or Array, the code will read both in the `phrase`, `stylenumber` and `strength` format.
->> The Phrase is the text you enter for the code to use its ai learning for
->> The Stylenumber is an int ranging from `1-18`
->> The Strength determines how much impact the input image has on the output; `LOW` `MEDIUM` `HIGH`
+>> The Phrase is the text you enter for the code to use its ai learning for <br>
+>> The Stylenumber is an int ranging from `1-18` <br>
+>> The Strength determines how much impact the input image has on the output; `LOW` `MEDIUM` `HIGH` <br>
 
 > This is an example of a CSV file: 
 >>>  `Apple, 12, Medium` <br> `Banana, 8, HIGH` <br> `WOOOOOOO, 2, LOW `
