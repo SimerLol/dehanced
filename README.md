@@ -21,7 +21,9 @@ There is a single `index.js` file of which on the top has user configuration set
 
 >> ### This is an example of the Array:
 >>> `entries["Apple,12,Medium", "Banana,8, HIGH", "WOOOOOOO,2, LOW]` <br>
->>> 
+
+>> ### If you are using input images and the Input image is set to `True`:
+>>> The code will take every file inside the `/assets` directory for its loop
 ---
 # Installation
 > (You need to have Node installed)
