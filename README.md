@@ -26,7 +26,7 @@ There is a single `index.js` file of which on the top has user configuration set
 >>> The code will take every file inside the `/assets` directory for its loop
 ---
 # Installation
-> (You need to have Node installed)
+> (You need to have Node installed) <br>
 Install dependencies `npm i` <br>
 Run `node index` <br>
 
